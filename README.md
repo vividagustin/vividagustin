@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-This is my portfolio website build when I join the 3-Day Kreatif Workshop held by Progate.
+This web is my portfolio, which was built when I join in the 3-Day Kreatif Workshop held by Progate.
 
 % Mar 5, 2021 %
