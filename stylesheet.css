@@ -252,6 +252,9 @@ footer {
   background-color: #045B62;
   color: #fff;
   height: 100px;
+  
+  position: fixed;
+  bottom: 0;
 }
 
 .foot img{
